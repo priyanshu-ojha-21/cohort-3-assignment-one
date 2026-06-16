@@ -3,7 +3,7 @@
 A pixel-perfect, responsive web UI clone of a modern Pokémon card design. This project was built to deeply understand and implement advanced CSS layout techniques. 
 
 ### 🚀 Live Demo
-[Click here to view the live project](YAHAN_APNA_LIVE_LINK_DAAL_DENA)
+https://cohort-3-assignment-one.vercel.app/
 
 ### 🛠️ Tech Stack
 * **HTML5:** Semantic structure and layout.
